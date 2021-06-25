@@ -15,7 +15,7 @@ using projectevents.Interfaces;
 using projectevents.Data;
 using Newtonsoft.Json.Serialization;
 using Microsoft.AspNetCore.Authentication.Cookies;
-testt uma
+testt uma hhhh
 namespace projectevents
 {
     public class Startup
